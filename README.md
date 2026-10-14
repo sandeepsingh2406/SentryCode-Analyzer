@@ -42,7 +42,7 @@ In production, the Next.js app is built as a static export and served directly b
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/<your-username>/sentrycode.git
+   git clone https://github.com/sandeepsingh2406/sentrycode.git
    cd sentrycode
    ```
 
